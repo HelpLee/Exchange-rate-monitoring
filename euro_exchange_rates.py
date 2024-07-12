@@ -14,11 +14,11 @@ import threading
 csv_file = 'euro_exchange_rates.csv'
 
 # Email configuration
-smtp_server = 'smtp.qq.com'  # SMTP server for QQ Mail
-smtp_port = 465  # SMTP port for SSL/TLS
-smtp_user = '1067520491@qq.com'  # Your QQ email address (sender)
-smtp_password = 'snazyhqabsdbbbii'  # Your QQ email authorization code (password)
-recipient_emails = ['lee.heyboy@gmail.com']  # List of recipient email addresses
+smtp_server = 'xxxx'  # SMTP server for QQ Mail
+smtp_port = 000  # SMTP port for SSL/TLS
+smtp_user = 'xxxxxxx'  # Your QQ email address (sender)
+smtp_password = 'xxxxxxxxx'  # Your QQ email authorization code (password)
+recipient_emails = ['xxxxxxxxxxx@gmail.com']  # List of recipient email addresses
 
 # Threshold values
 forex_buy_threshold = 788.5  # High threshold for forex buy price
